@@ -1,0 +1,8 @@
+git fetch
+git branch anim
+git checkout anim
+git add .
+git commit -m " comentario"
+git push origin anim
+setting pages deploy on a branch branch
+github actions
